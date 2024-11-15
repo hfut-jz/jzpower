@@ -1,4 +1,4 @@
-#已在npm上发布测试，如下图，欢迎下载
+#已在npm上发布测试，如下图，欢迎下载 链接:https://www.npmjs.com/package/jzpower
 ![image](https://github.com/user-attachments/assets/75db5368-1993-40b2-92ab-6dec351de1b2)
 
 
